@@ -26,7 +26,10 @@ composer install
 php artisan migrate
 <br>
 php artisan serve
+####
+• to fill laravel_articles table run:
 <br>
+php artisan db:seed
 
 # Preview
 ![image](https://github.com/GirtsFreimanis/Laravel-Article-Manager/blob/master/readme-pictures/pic2.png)
@@ -36,3 +39,4 @@ php artisan serve
 ![image](https://github.com/GirtsFreimanis/Laravel-Article-Manager/blob/master/readme-pictures/pic4.png)
 ####
 ![image](https://github.com/GirtsFreimanis/Laravel-Article-Manager/blob/master/readme-pictures/pic5.png)
+
