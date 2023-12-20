@@ -32,6 +32,7 @@ php artisan serve
 php artisan db:seed
 
 # Preview
+localhost:8000/articles
 ![image](https://github.com/GirtsFreimanis/Laravel-Article-Manager/blob/master/readme-pictures/pic2.png)
 ####
 ![image](https://github.com/GirtsFreimanis/Laravel-Article-Manager/blob/master/readme-pictures/pic3.png)
